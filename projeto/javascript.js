@@ -1,5 +1,3 @@
-// ANIMAÇÃO AO ROLAR
-
 const sections = document.querySelectorAll("section")
 
 const observer = new IntersectionObserver(entries=>{
